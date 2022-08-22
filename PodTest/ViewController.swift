@@ -13,7 +13,19 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    func fuxbug() {
+        
+    }
+    
+    func fuxbug2() {
+        
+    }
 
+    
+    func fuxbug3() {
+        
+    }
 
 }
 
