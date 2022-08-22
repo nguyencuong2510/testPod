@@ -18,6 +18,9 @@ class ViewController: UIViewController {
 }
 
 public class PodTest {
+    
+    public init() {}
+    
     public func getName() -> String {
         return "Nguyen van cuong"
     }
