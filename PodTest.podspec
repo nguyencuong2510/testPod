@@ -12,5 +12,5 @@ s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'username' => 'cuong251095@gmail.com' } 
 s.source           = { :git => 'https://github.com/nguyencuong2510/testPod.git', :tag => s.version.to_s } 
 s.ios.deployment_target = '14.0'
-s.source_files = 'testPod/PodTest/*'  
+s.source_files = 'PodTest/*'  
 end
