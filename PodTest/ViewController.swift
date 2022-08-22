@@ -17,3 +17,12 @@ class ViewController: UIViewController {
 
 }
 
+public class PodTest {
+    public func getName() -> String {
+        return "Nguyen van cuong"
+    }
+    
+    public func printName(name: String) {
+        print(name)
+    }
+}
