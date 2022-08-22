@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
 }
 
 public class PodTest {
@@ -27,5 +26,8 @@ public class PodTest {
     
     public func printName(name: String) {
         print(name)
+    }
+    
+    func main1() {
     }
 }
