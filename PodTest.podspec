@@ -1,5 +1,5 @@
  Pod::Spec.new do |s|
-s.name             = 'PodTest'  
+s.name             = 'MyPodTestNguyen'  
 s.version          = '0.0.1'  
 s.summary          = 'Custom pod creation for iOS' 
 s.swift_version 	  = '4.1'
