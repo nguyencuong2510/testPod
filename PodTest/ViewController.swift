@@ -30,4 +30,7 @@ public class PodTest {
     
     func main1() {
     }
+    
+    func main2() {
+    }
 }
