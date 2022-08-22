@@ -26,6 +26,10 @@ class ViewController: UIViewController {
     func fuxbug3() {
         
     }
+    
+    func fuxbug4() {
+        
+    }
 
 }
 
